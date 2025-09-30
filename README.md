@@ -17,6 +17,7 @@ Analyzing Netflix’s movie and TV show catalog using Tableau. The dashboard vis
 ![Dashboard Preview](https://github.com/AkillerKavinda/Netflix-Dashboard-Tableau-Project/blob/main/Dashboard/dashboard_image.png?raw=true)
 
 The dashboard includes:
+- Interactive filter to select a movie or TV show and view its rating, date added, duration, release year, genre, and description
 - Map showing total movies and TV shows by country  
 - Bubble chart comparing movies vs TV shows  
 - Area chart of content added by year  
